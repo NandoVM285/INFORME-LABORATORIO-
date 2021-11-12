@@ -73,6 +73,12 @@ Una vez obtenido la intensidad del circuito, se utiliza esta intensidad para obt
 Este proceso se llevará a cabo con las resistencias en serie.
 
 
+![r7](https://user-images.githubusercontent.com/93899720/141447028-14e269b9-6881-438c-9d03-c9373c054509.png)
+
+
+Se debe obtener el voltaje del conjunto de R_7 que representa la unión de las resistencias R_2  y R_6 
+
+
 
 
 
