@@ -67,6 +67,15 @@ Después de obtener la resistencia total del circuito, buscar la intensidad del 
 Una vez obtenido la intensidad del circuito, se utiliza esta intensidad para obtener el respectivo voltaje de las resistencias mediante la ley de ohm.
 
 
+![image](https://user-images.githubusercontent.com/93899720/141446796-004994ee-f430-4e73-8cb4-563865d068de.png)
+
+
+Este proceso se llevará a cabo con las resistencias en serie.
+
+
+
+
+
 
 
 
