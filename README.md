@@ -90,6 +90,15 @@ Este voltaje será de utilidad para obtener los voltajes de las resistencias que
 
 Debido a que existe un nodo que separa la intensidad de corriente para las resistencias se debe calcular la intensidad para cada resistencia 
 
+![image](https://user-images.githubusercontent.com/93899720/141447903-2e76154a-4c92-4561-9c70-d4645adcf1ae.png)
+
+
+Se utiliza la misma intensidad debido a que se encuentra en conectado en serie.
+
+
+
+
+
 
 
 
