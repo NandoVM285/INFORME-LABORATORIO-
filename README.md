@@ -84,6 +84,16 @@ Se debe obtener el voltaje del conjunto de R_7 que representa la unión de las r
 
 Este voltaje será de utilidad para obtener los voltajes de las resistencias que conforman R_7 mediante la intensidad de corriente que circula en esta parte del circuito.
 
+![image](https://user-images.githubusercontent.com/93899720/141447619-b3a22255-f802-4126-abd0-a3b533862039.png)
+![image](https://user-images.githubusercontent.com/93899720/141447675-698e5830-0c5e-4418-8a3e-2c57b98eec79.png)
+
+
+Debido a que existe un nodo que separa la intensidad de corriente para las resistencias se debe calcular la intensidad para cada resistencia 
+
+
+
+
+
 
 
 
