@@ -107,6 +107,14 @@ Se utiliza la misma intensidad debido a que se encuentra en conectado en serie.
 
 Tabla 1.2. Verificación de la LVK.
 
+![image](https://user-images.githubusercontent.com/93899720/141448304-53f56e88-8ba6-4a42-b03d-cffa3b044dfa.png)
+
+
+Resolución:
+ 
+Trayectoria 1
+
+
 
 
 
