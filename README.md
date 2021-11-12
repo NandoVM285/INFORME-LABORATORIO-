@@ -181,6 +181,18 @@ Proceso
 Tabla 1.3. Verificación de la LCK.
 
 
+![image](https://user-images.githubusercontent.com/93899720/141450141-c22496aa-7e50-45cd-8f93-d88e1620bd35.png)
+
+
+
+1.5.5.	Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto.
+
+
+
+Los resultados obtenidos aplicados adecuadamente con el menor desprecio de decimales devuelve al investigador una cantidad que oscila a los valores reales, estos valores serán más exactos según el método que se utilice para calcular dichos resultados. 
+
+
+
 
 
 
