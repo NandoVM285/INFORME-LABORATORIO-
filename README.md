@@ -3,6 +3,10 @@
 
 1. OBJETIVOS
 
+Comprender el correcto uso de la ley de ohm y la ley de Kirchhoff y sus dos leyes derivadas: corrientes y voltajes.
+Analizar la circulaciòn de la energía en el circuito mixto 
+Obtener las caidas de voltaje en cada resistencia aplicando lala ley de ohm y la ley de Kirchhoff
+
 1.1.	OBJETIVO DE LA PRÁCTICA
 
 
@@ -217,14 +221,68 @@ Tabla 1.3. Verificación de la LCK.
 
 
 
+1.5.5.	Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto.
+
+
+
+Los resultados obtenidos aplicados adecuadamente con el menor desprecio de decimales devuelve al investigador una cantidad que oscila a los valores reales, estos valores serán más exactos según el método que se utilice para calcular dichos resultados. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 5. VIDEO
 
 
 6. CONCLUSIONES
 
 Los resultados obtenidos aplicados adecuadamente con el menor desprecio de decimales devuelve al investigador una cantidad que oscila a los valores reales, estos valores serán más exactos según el método que se utilice para calcular dichos resultados. 
-
-
 
 7. BIBLIOGRAFÍA
 
