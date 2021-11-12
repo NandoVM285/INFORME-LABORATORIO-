@@ -13,6 +13,8 @@ Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley 
 
 2. MARCO TEÓRICO 
 
+![imagen_2021-11-12_052842](https://user-images.githubusercontent.com/93899720/141452541-a8e00705-6149-4772-a6fb-e6e728444c9b.png)
+
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
