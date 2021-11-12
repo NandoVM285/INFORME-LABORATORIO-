@@ -167,6 +167,21 @@ Se sumó las resistencias de la trayectoria
 Mediante la fórmula divisor de voltaje se obtiene los voltajes de cada resistencia 
 
 
+![image](https://user-images.githubusercontent.com/93899720/141449810-2f743f6d-9827-46e2-92c9-31f0a7cec3dd.png)
+
+
+
+1.5.4.	Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen del nodo. Anote los resultados en la tabla 1.3.
+
+
+Proceso
+
+
+
+Tabla 1.3. Verificación de la LCK.
+
+
+
 
 
 
