@@ -44,6 +44,9 @@ Proceso
 
 Realizo la sumatoria de todas las resistencias del circuito
 
+![image](https://user-images.githubusercontent.com/93899720/141446145-320af55e-a573-4d4b-85d8-9430d93b099d.png)
+
+Después de obtener la resistencia total del circuito, buscar la intensidad del circuito.
 
 
 
