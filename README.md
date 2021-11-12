@@ -96,6 +96,21 @@ Debido a que existe un nodo que separa la intensidad de corriente para las resis
 Se utiliza la misma intensidad debido a que se encuentra en conectado en serie.
 
 
+![image](https://user-images.githubusercontent.com/93899720/141448071-c3030784-e679-4256-865b-847ea9e498a3.png)
+
+
+
+
+1.5.3.	Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. Anote los resultados en la tabla 1.2.
+
+
+
+Tabla 1.2. Verificación de la LVK.
+
+
+
+
+
 
 
 
