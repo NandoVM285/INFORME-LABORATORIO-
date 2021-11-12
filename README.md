@@ -40,6 +40,9 @@ b)	Ley de Kirchhoff de Voltajes: La suma de las caídas de voltaje en una trayec
 1.4.	MATERIAL Y EQUIPO REQUERIDO
 
 
+![image](https://user-images.githubusercontent.com/93899720/141450901-7cd01021-4d0b-4d8c-99e4-d2838bc3d05e.png)
+
+
 1.5.1.	Arme el circuito que se muestra en la figura 1.1.
 
 
