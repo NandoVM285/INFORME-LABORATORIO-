@@ -22,7 +22,3 @@
 7. BIBLIOGRAFÍA
 
 
-
-RUBRICA
-
-![](https://github.com/doalulema/InformeLaboratorio/blob/main/Laboratorio.png)
