@@ -116,6 +116,13 @@ Trayectoria 1
 
 
 
+![image](https://user-images.githubusercontent.com/93899720/141448491-7590b6bf-407e-47a8-bf5b-fd251287e729.png)
+
+
+Se sumó las resistencias de la trayectoria
+
+
+
 
 
 
