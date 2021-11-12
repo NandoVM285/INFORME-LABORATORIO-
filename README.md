@@ -122,6 +122,16 @@ Trayectoria 1
 Se sumó las resistencias de la trayectoria
 
 
+![image](https://user-images.githubusercontent.com/93899720/141448653-ff9c478e-6b54-491c-9a9f-b12bae4c1d2d.png)
+
+
+
+Mediante la fórmula divisor de voltaje se obtiene los voltajes de cada resistencia 
+
+
+
+
+
 
 
 
