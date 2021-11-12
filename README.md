@@ -34,6 +34,12 @@ Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del cir
 
 Voltaje circuito resistivo mixto
 
+![image](https://user-images.githubusercontent.com/93899720/141445329-3d939515-4e2b-4d2d-8608-6884f90ed84b.png)
+
+Corriente circuito resistivo mixto
+
+
+
 
 5. VIDEO
 
