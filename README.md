@@ -38,6 +38,12 @@ Voltaje circuito resistivo mixto
 
 Corriente circuito resistivo mixto
 
+![image](https://user-images.githubusercontent.com/93899720/141445666-0520477f-71b2-4d50-b90a-39581f4ee611.png)
+
+Proceso
+
+Realizo la sumatoria de todas las resistencias del circuito
+
 
 
 
