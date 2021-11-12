@@ -32,6 +32,8 @@ Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del cir
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
+Voltaje circuito resistivo mixto
+
 
 5. VIDEO
 
