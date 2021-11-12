@@ -79,6 +79,19 @@ Este proceso se llevará a cabo con las resistencias en serie.
 Se debe obtener el voltaje del conjunto de R_7 que representa la unión de las resistencias R_2  y R_6 
 
 
+![image](https://user-images.githubusercontent.com/93899720/141447347-ac6331d9-67b0-4ea5-9b6e-b7fc283df95e.png)
+
+
+Este voltaje será de utilidad para obtener los voltajes de las resistencias que conforman R_7 mediante la intensidad de corriente que circula en esta parte del circuito.
+
+
+
+
+
+
+
+
+
 
 
 
