@@ -26,6 +26,8 @@ Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley 
 
 Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
 
+![image](https://user-images.githubusercontent.com/93899720/141444555-b2ceb671-307b-43d6-9d27-084e8ebea5b3.png)
+
 
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
