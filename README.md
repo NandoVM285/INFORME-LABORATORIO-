@@ -126,7 +126,13 @@ Se sumó las resistencias de la trayectoria
 
 
 
-Mediante la fórmula divisor de voltaje se obtiene los voltajes de cada resistencia 
+Mediante la fórmula divisor de voltaje se obtiene los voltajes de cada resistencia
+
+
+![image](https://user-images.githubusercontent.com/93899720/141448866-6ead0acb-ca17-42ae-98ae-315a77f6c8cd.png)
+
+
+Trayectoria 2
 
 
 
