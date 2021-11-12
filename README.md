@@ -17,6 +17,7 @@ Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley 
 ![imagen_2021-11-12_053011](https://user-images.githubusercontent.com/93899720/141452750-a58749f9-87e2-4a45-a9c1-cc26e7daf0c3.png)
 ![imagen_2021-11-12_053149](https://user-images.githubusercontent.com/93899720/141452944-d3716f80-4e47-4cc6-815c-5427911fb2dc.png)
 ![imagen_2021-11-12_053241](https://user-images.githubusercontent.com/93899720/141453193-8a510a41-e91b-4abb-8386-5bea0e5e319f.png)
+![imagen_2021-11-12_053457](https://user-images.githubusercontent.com/93899720/141453371-beab6a80-ca40-4014-a2e4-4d5bb93dba32.png)
 
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
